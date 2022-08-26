@@ -1,0 +1,4 @@
+[submodule "tv/profile"]
+	url  = https://gitee.com/zhanghong19830310/tv
+	path = tv/profile
+
