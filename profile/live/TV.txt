@@ -557,66 +557,6 @@ NewTV超级电视剧,http://39.134.65.183/PLTV/88888888/224/3221225637/1.m3u8
 
 
 【港•澳•台】,#genre#
-BHTV,http://cdn1.ujjina.com:1935/iptvbhtv/livebhtvtv/playlist.m3u8
-BHTV,http://cdn2.ujjina.com:1935/iptvbhtv/livebhtvtv/playlist.m3u8
-ELEVEN1,rtmp://59.124.75.138/sat/tv731
-ELEVEN2,rtmp://59.124.75.138/sat/tv741
-ELTA体育2台,rtmp://59.124.75.138/sat/md011
-ELTA体育2台,rtmp://59.124.75.138/sat/md021
-ELTA体育3台,rtmp://59.124.75.138/sat/md041
-GoodTV爱旅行台,https://live-350k.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch11-2.m3u8
-GoodTV真情部落,https://live-350k.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch3-2.m3u8
-GoodTV经典音乐,https://live-350k.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch6-2.m3u8
-GunmaTV,https://movie.mcas.jp/switcher/smil:mcas8.smil/master.m3u8
-HBO,http://50.7.220.74:8278/hbosignature_twn/playlist.m3u8?tid=m48ee99a5dacb15948906&ct=17874&tsum=3d127801d49fa098b4118400117b4fbb
-HBO2台,http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
-HTV1,https://stream.swagit.com/live-edge/houstontx/smil:hd-16x9-2-a/chunklist_w444601733_b1628000.m3u8$Houston Television
-HTV1,https://stream.swagit.com/live-edge/houstontx/smil:hd-16x9-2-a/playlist.m3u8$Houston Television
-HTV2,https://stream.swagit.com/live-edge/houstontx/smil:hd-16x9-2-b/HasBahCa.m3u8$Houston Television
-HTV2,https://stream.swagit.com/live-edge/houstontx/smil:hd-16x9-2-b/playlist.m3u8$Houston Television
-HTV3,http://livecdn.fptplay.net/sdb/htv3_hls.smil/playlist.m3u8
-HTV3,https://livecdn.fptplay.net/sdb/htv3_2000.stream/chunklist.m3u8
-HTV3,https://livecdn.fptplay.net/sdb/htv3_hls.smil/chunklist_b2500000.m3u8
-HTV4,https://livecdn.fptplay.net/sdb/htv4_hls.smil/chunklist_b2500000.m3u8
-Hope,https://live-tvhope.cdnvideo.ru/tvhope-pull/tvhope_1/chunklist.m3u8
-KCTV,http://119.77.96.184:1935/chn05/chn05/chunklist_w1306745753.m3u8
-KCTV,http://119.77.96.184:1935/chn05/chn05/chunklist_w644291506.m3u8
-MOMO綜合,rtmp://59.124.75.138/sat/tv761
-PTP HD,https://livecdn.fptplay.net/sda/phuyen_hls.smil/chunklist_b2500000.m3u8
-RTHK31,https://cdn.hklive.tv/xxxx/31/index.m3u8
-RTHK32,https://cdn.hklive.tv/xxxx/32/index.m3u8
-RTHK33,https://cdn.hklive.tv:443/xxxx/33/index.m3u8
-RTHK34,https://cdn.hklive.tv:443/xxxx/34/index.m3u8
-TVB J2,https://cdn.hklive.tv/xxxx/82/index.m3u8
-TVB J2,https://cdn.hklive.tv:443/xxxx/82/index.m3u8
-TVB J2,https://j3.lhlh.app/mv.m3u8
-TVB J2,https://p2.weizan.cn/1646497941/269664979080385265/live.m3u8
-TVBRICS CN,http://brics.bonus-tv.ru/cdn/brics/chinese/tracks-v1a1/index.m3u8
-TVBRICS ENG,http://brics.bonus-tv.ru/cdn/brics/english/tracks-v1a1/index.m3u8
-TVBS新闻,http://38.64.72.148:80/hls/modn/list/4006/chunklist0.m3u8
-TVBS新闻,http://38.64.72.148:80/hls/modn/list/4006/chunklist1.m3u8
-TVBS新闻台,http://38.64.72.148/hls/modn/list/4006/chunklist0.m3u8
-TVBS新闻台,http://38.64.72.148:80/hls/modn/list/4006/chunklist0.m3u8
-TVBS新闻台,http://38.64.72.148:80/hls/modn/list/4006/chunklist1.m3u8
-TVB影视剧,http://hms563nc1880172786.live.aikan.miguvideo.com/wh7f454c46tw3279865347_-1298155843/PLTV/88888888/224/3221231733/1.m3u8
-TVB明珠台,https://cdn.hklive.tv/xxxx/84b/index.m3u8$粤语声道
-TVB明珠台,https://cdn.hklive.tv:443/xxxx/84/index.m3u8
-TVB翡翠台,https://cdn.hklive.tv/xxxx/81/index.m3u8
-TVB翡翠台,https://cdn.hklive.tv:443/xxxx/81/index.m3u8
-ViuTV,https://cdn.hklive.tv/xxxx/99/index.m3u8
-ViuTV6,https://cdn.hklive.tv/xxxx/96/index.m3u8
-WeatherNews,https://movie.mcas.jp/mcas/smil:wn1.smil/master.m3u8
-三立綜合,http://50.7.220.74:8278/sanlizhonghe/playlist.m3u8?tid=m3362167a08a014596868&ct=17874&tsum=4472a7c943b67bf52fe5e836ca9f3b6b
-东森综合,http://50.7.220.74:8278/ettvzhonghe/playlist.m3u8?tid=m65c4e525f24617101171&ct=17874&tsum=663db593cfeefc92ce4b5d7461988f3f
-东森美洲卫视,http://38.64.72.148:80/hls/modn/list/2015/chunklist0.m3u8
-东森财经新闻,rtmp://59.124.75.138/sat/tv571
-中国环球电视,http://live.cgtn.com/500/prog_index.m3u8
-中视,rtmp://59.124.75.138/sat/tv091
-中视经典,http://50.7.220.74:8278/zhongshi_twn/playlist.m3u8?tid=mffe9aaf8765f&ct=18335&tsum=bcdd7a2ce4a5498b1449cb26a01150c0
-亚洲新闻,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
-亚洲旅游,http://50.7.220.74:8278/asiatravel_twn/playlist.m3u8?tid=ma9ec30da9ef3&ct=18335&tsum=ff0bd9207f2c72a8c9bf38464433dc7d
-俄罗斯中文,http://brics.bonus-tv.ru/cdn/brics/chinese/tracks-v1a1/index.m3u8
-儒释道经,https://live.ciguang.tv/live/hdtv.m3u8?auth_key=5216465889-0-0-701a98b03302233fc07fa2ee9e85d39b
 凤凰中文,http://play-live.ifeng.com/live/06OLEGEGM4G.m3u8
 凤凰中文,http://playtv-live.ifeng.com/live/06OLEGEGM4G.m3u8
 凤凰中文,http://playtv-live.ifeng.com/live/06OLEGEGM4G_tv1.m3u8
@@ -718,6 +658,68 @@ WeatherNews,https://movie.mcas.jp/mcas/smil:wn1.smil/master.m3u8
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 香港国际财经台,https://cdn.hklive.tv/xxxx/76/index.m3u8
 香港开电视,https://cdn.hklive.tv:443/xxxx/77/index.m3u8
+TVB J2,https://cdn.hklive.tv/xxxx/82/index.m3u8
+TVB J2,https://cdn.hklive.tv:443/xxxx/82/index.m3u8
+TVB J2,https://j3.lhlh.app/mv.m3u8
+TVB J2,https://p2.weizan.cn/1646497941/269664979080385265/live.m3u8
+TVBRICS CN,http://brics.bonus-tv.ru/cdn/brics/chinese/tracks-v1a1/index.m3u8
+TVBRICS ENG,http://brics.bonus-tv.ru/cdn/brics/english/tracks-v1a1/index.m3u8
+TVBS新闻,http://38.64.72.148:80/hls/modn/list/4006/chunklist0.m3u8
+TVBS新闻,http://38.64.72.148:80/hls/modn/list/4006/chunklist1.m3u8
+TVBS新闻台,http://38.64.72.148/hls/modn/list/4006/chunklist0.m3u8
+TVBS新闻台,http://38.64.72.148:80/hls/modn/list/4006/chunklist0.m3u8
+TVBS新闻台,http://38.64.72.148:80/hls/modn/list/4006/chunklist1.m3u8
+TVB影视剧,http://hms563nc1880172786.live.aikan.miguvideo.com/wh7f454c46tw3279865347_-1298155843/PLTV/88888888/224/3221231733/1.m3u8
+TVB明珠台,https://cdn.hklive.tv/xxxx/84b/index.m3u8$粤语声道
+TVB明珠台,https://cdn.hklive.tv:443/xxxx/84/index.m3u8
+TVB翡翠台,https://cdn.hklive.tv/xxxx/81/index.m3u8
+TVB翡翠台,https://cdn.hklive.tv:443/xxxx/81/index.m3u8
+ViuTV,https://cdn.hklive.tv/xxxx/99/index.m3u8
+ViuTV6,https://cdn.hklive.tv/xxxx/96/index.m3u8
+WeatherNews,https://movie.mcas.jp/mcas/smil:wn1.smil/master.m3u8
+三立綜合,http://50.7.220.74:8278/sanlizhonghe/playlist.m3u8?tid=m3362167a08a014596868&ct=17874&tsum=4472a7c943b67bf52fe5e836ca9f3b6b
+东森综合,http://50.7.220.74:8278/ettvzhonghe/playlist.m3u8?tid=m65c4e525f24617101171&ct=17874&tsum=663db593cfeefc92ce4b5d7461988f3f
+东森美洲卫视,http://38.64.72.148:80/hls/modn/list/2015/chunklist0.m3u8
+东森财经新闻,rtmp://59.124.75.138/sat/tv571
+中国环球电视,http://live.cgtn.com/500/prog_index.m3u8
+中视,rtmp://59.124.75.138/sat/tv091
+中视经典,http://50.7.220.74:8278/zhongshi_twn/playlist.m3u8?tid=mffe9aaf8765f&ct=18335&tsum=bcdd7a2ce4a5498b1449cb26a01150c0
+亚洲新闻,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
+亚洲旅游,http://50.7.220.74:8278/asiatravel_twn/playlist.m3u8?tid=ma9ec30da9ef3&ct=18335&tsum=ff0bd9207f2c72a8c9bf38464433dc7d
+俄罗斯中文,http://brics.bonus-tv.ru/cdn/brics/chinese/tracks-v1a1/index.m3u8
+儒释道经,https://live.ciguang.tv/live/hdtv.m3u8?auth_key=5216465889-0-0-701a98b03302233fc07fa2ee9e85d39b
+BHTV,http://cdn1.ujjina.com:1935/iptvbhtv/livebhtvtv/playlist.m3u8
+BHTV,http://cdn2.ujjina.com:1935/iptvbhtv/livebhtvtv/playlist.m3u8
+ELEVEN1,rtmp://59.124.75.138/sat/tv731
+ELEVEN2,rtmp://59.124.75.138/sat/tv741
+ELTA体育2台,rtmp://59.124.75.138/sat/md011
+ELTA体育2台,rtmp://59.124.75.138/sat/md021
+ELTA体育3台,rtmp://59.124.75.138/sat/md041
+GoodTV爱旅行台,https://live-350k.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch11-2.m3u8
+GoodTV真情部落,https://live-350k.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch3-2.m3u8
+GoodTV经典音乐,https://live-350k.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch6-2.m3u8
+GunmaTV,https://movie.mcas.jp/switcher/smil:mcas8.smil/master.m3u8
+HBO,http://50.7.220.74:8278/hbosignature_twn/playlist.m3u8?tid=m48ee99a5dacb15948906&ct=17874&tsum=3d127801d49fa098b4118400117b4fbb
+HBO2台,http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
+HTV1,https://stream.swagit.com/live-edge/houstontx/smil:hd-16x9-2-a/chunklist_w444601733_b1628000.m3u8$Houston Television
+HTV1,https://stream.swagit.com/live-edge/houstontx/smil:hd-16x9-2-a/playlist.m3u8$Houston Television
+HTV2,https://stream.swagit.com/live-edge/houstontx/smil:hd-16x9-2-b/HasBahCa.m3u8$Houston Television
+HTV2,https://stream.swagit.com/live-edge/houstontx/smil:hd-16x9-2-b/playlist.m3u8$Houston Television
+HTV3,http://livecdn.fptplay.net/sdb/htv3_hls.smil/playlist.m3u8
+HTV3,https://livecdn.fptplay.net/sdb/htv3_2000.stream/chunklist.m3u8
+HTV3,https://livecdn.fptplay.net/sdb/htv3_hls.smil/chunklist_b2500000.m3u8
+HTV4,https://livecdn.fptplay.net/sdb/htv4_hls.smil/chunklist_b2500000.m3u8
+Hope,https://live-tvhope.cdnvideo.ru/tvhope-pull/tvhope_1/chunklist.m3u8
+KCTV,http://119.77.96.184:1935/chn05/chn05/chunklist_w1306745753.m3u8
+KCTV,http://119.77.96.184:1935/chn05/chn05/chunklist_w644291506.m3u8
+MOMO綜合,rtmp://59.124.75.138/sat/tv761
+PTP HD,https://livecdn.fptplay.net/sda/phuyen_hls.smil/chunklist_b2500000.m3u8
+RTHK31,https://cdn.hklive.tv/xxxx/31/index.m3u8
+RTHK32,https://cdn.hklive.tv/xxxx/32/index.m3u8
+RTHK33,https://cdn.hklive.tv:443/xxxx/33/index.m3u8
+RTHK34,https://cdn.hklive.tv:443/xxxx/34/index.m3u8
+
+
 
 
 
