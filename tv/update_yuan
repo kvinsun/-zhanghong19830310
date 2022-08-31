@@ -87,7 +87,7 @@
 "name": "sunkangfu家庭版线路"
 },
 {
-"url": "clan://tvbox/tvbox.json",
+"url": "clan://resolve/tvbox/tvbox.json",
 "name": "本地clan://tvbox/tvbox.json"
 }
 ],
