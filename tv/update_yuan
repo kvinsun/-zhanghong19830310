@@ -80,5 +80,11 @@
             "url": "clan://tvbox/tvbox.json",
             "name": "本地clan://tvbox/tvbox.json"
         }
+    ],
+    "vip": [
+        {
+            "url": "https://gitea.com/33/3/raw/branch/3/3/1",
+            "name": "白嫖影视"
+        }
     ]
 }
