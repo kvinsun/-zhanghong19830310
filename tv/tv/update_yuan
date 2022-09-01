@@ -82,9 +82,7 @@
 {
 "url": "https://gitea.com/sunkangfu/skf/raw/branch/main/sjz.json",
 "name": "sunkangfu家庭版线路"
-},
-{"url": "clan://tvbox/tvbox.json",
-"name": "本地clan://tvbox/tvbox.json"}
+}
 ],
 "vip": [
 {
